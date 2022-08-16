@@ -1,6 +1,12 @@
 # spotify_mpd_project
 Final Project for Applied Machine Learning
 
+## Project Members
+Jean-Luc Jackson — `jeanlucjackson` (myself)
+Christian Montecillo — `heyjcm`
+Bronte Baer — `bronte-baer`
+Lawis Koh — `lkoh3` 
+
 
 ## Repo Contents
 > The `Final_Spotify_MPD_Notebook_20220731.ipynb` file contains the final code for the model.
