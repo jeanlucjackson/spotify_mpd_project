@@ -2,10 +2,10 @@
 Final Project for Applied Machine Learning
 
 ## Project Members
-Jean-Luc Jackson — `jeanlucjackson` (myself)
-Christian Montecillo — `heyjcm`
-Bronte Baer — `bronte-baer`
-Lawis Koh — `lkoh3` 
+Jean-Luc Jackson — `jeanlucjackson` (myself)  
+Christian Montecillo — `heyjcm`  
+Bronte Baer — `bronte-baer`  
+Lawis Koh — `lkoh3`   
 
 
 ## Repo Contents
